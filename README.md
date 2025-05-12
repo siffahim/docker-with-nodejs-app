@@ -1,4 +1,4 @@
-# Node.js + Express
+# Docker + Node.js + Express
 
 This repository provides the setup for creating a backend for an application using Node.js and Express.
 

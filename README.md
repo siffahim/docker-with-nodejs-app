@@ -92,5 +92,5 @@ docker push siffahim/docker-with-nodejs-app
 To run the Docker container from Docker Hub, use:
 
 ```bash
- docker run -d -p 5000:5000 --name nodejs-sif-app siffahim/docker-with-nodejs-app
+ docker run -d -p 5000:5000 --name nodejs-app siffahim/docker-with-nodejs-app
 ```

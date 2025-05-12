@@ -75,7 +75,7 @@ docker build -t docker-with-nodejs-app .
 Run the container using the image we just built:
 
 ```bash
-docker run -d -p 5000:5000 --name backend-with-node 85fc68b5249e
+docker run -d -p 5000:5000 --name nodejs-app docker-with-nodejs-app
 ```
 #Optional(If you want to keep image to docker hub and run from the hub)
 

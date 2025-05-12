@@ -6,7 +6,7 @@ This repository provides the setup for creating a backend for an application usi
 - [Project Setup](#project-setup)
 - [Backend Setup](#backend-setup)
   - [Step 1: Create the Backend Folder](#step-1-create-the-backend-folder)
-  - [Step 2: Create `index.ts`](#step-2-create-indexjs)
+  - [Step 2: Create `server.ts`](#step-2-create-indexjs)
   - [Step 3: Dockerfile for Backend](#step-3-dockerfile-for-backend)
 - [Running the Application](#running-the-application)
 

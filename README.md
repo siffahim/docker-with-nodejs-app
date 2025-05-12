@@ -19,7 +19,7 @@ Ensure you have Node.js installed on your machine. This setup uses Express and C
 Run the following commands to create and initialize the backend folder:
 
 ```bash
-mkdir -p Full-stack-app/backend
-cd Full-stack-app/backend
+mkdir -p applications/nodejs-backend
+cd applications/nodejs-backend
 npm init -y
 npm install express cors

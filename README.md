@@ -1,6 +1,6 @@
-#Node.js + Express
+# Node.js + Express
 
-This repository provides the setup for creating a backend for a application using Node.js and Express.
+This repository provides the setup for creating a backend for an application using Node.js and Express.
 
 ## Table of Contents
 - [Project Setup](#project-setup)
